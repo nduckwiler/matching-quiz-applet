@@ -5,4 +5,10 @@ body {
 
 button.btn {
   background-color: #FED230;
+  width: 200px;
+  font-weight: 700;
+}
+
+.right-col {
+  min-width: 200px;
 }
